@@ -1,0 +1,6 @@
+Source data for Figure 6 - weekly velocity graph
+
+Achieved by running: 
+03_Velocity_calcul_txt.py - Calculates distance and velocities between 2 txt files as output of the image-2-geometry algorithm
+04_aggregate_spatially_txt - Seperateds the points between stable and moving area based on user specific polygon
+06_Velocity_cumdistance_cam4.py - Creates the graph used in Figure 6 of the paper
