@@ -2,7 +2,9 @@
 Supplemantary code and data for the preprint submitted to Earth Surface Dynamics
 
 Authors: Hanne Hendrickx*, Melanie Elias*, Xabier Blanch, Reynald Delaloye, Anette Eltner
+
 *Joint first author
+
 Correspondence to: Hanne Hendrickx (hanne.hendrickx@tu-dresden.de) and Melanie Elias (melanie.elias@tu-dresden.de)
 
 Code developed in Python and C++ for extracting velocity information out of monoscopic time-lapse images from a landslide and a rock glacier. 
