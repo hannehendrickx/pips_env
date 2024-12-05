@@ -9,6 +9,11 @@ Correspondence to: Hanne Hendrickx (hanne.hendrickx@tu-dresden.de) and Melanie E
 
 Code developed in Python and C++ for extracting velocity information out of monoscopic time-lapse images from a landslide and a rock glacier. 
 
+## To-Do List
+- [ ] Integrate format correct format in PIPs++ code as input for GIRAFFE (omitting 01_pips_convert_txt.py)
+- [ ] Integrate datetime in output PIPs++ code
+- [ ] Add code for tracking predefined points in PIPs++
+
 ## General workflow
 ![General workflow](/Figures/Figure2.png)
 
